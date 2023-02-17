@@ -52,6 +52,7 @@ define( 'AUTH_KEY',         'EG#Yi/@f@+ktq^lP+{O %w_}HD?T5S8wiK7O{-Vn^N>IVKL^aOk
 define( 'SECURE_AUTH_KEY',  '|DH3SRu-_:$JfH#i]qv [IIf,q(sIhwOMhvUyVIq2I`|pQsqwgg4uP)N}GDRqEC/' );
 define( 'LOGGED_IN_KEY',    '(Pex,$Lz!)-aH}#Hu6zWYa/o FsB=)r#$B*mn[4<9J5A&Lrv]sMBHSaFChd`NYNV' );
 define( 'NONCE_KEY',        't*H5GLfQ95VNU{G6F?,$mPiJ^*;Ns4#MbV70%L%)oILU<*Gs</|P}dYidvX;-RQ3' );
+
 define( 'AUTH_SALT',        'KQmv1+p6}F65GR9n5i8%C+sn~V)Ne<t0FXwCVgd{g]{1?&RI]ajSPUt{U~($Fa0n' );
 define( 'SECURE_AUTH_SALT', 'T_3d v8tC+qIP+LwJ/&/.)MqC4Rr#VrI`V#j%k[4#]`:end|W}a0.}oiwm?o**K{' );
 define( 'LOGGED_IN_SALT',   'mU6]1_XT5:lTP.OW$L&/!-2_^5GgNVXs~T>F/k1I>Tx15<5-WyUThu(CS){XO5=,' );

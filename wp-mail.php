@@ -22,6 +22,7 @@ if ( 'mail.example.com' === $mailserver_url || empty( $mailserver_url ) ) {
 }
 
 /**
+ * 
  * Fires to allow a plugin to do a complete takeover of Post by Email.
  *
  * @since 2.9.0
